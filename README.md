@@ -92,3 +92,26 @@ Bank-Loan-Risk-Analysis
 ├── visuals  
 ├── README.md  
 └── requirements.txt  
+
+## ▶ How to Run the Project  
+
+(1) Download or clone this repository to your local machine.  
+(2) Ensure Python is installed on your system.  
+(3) Install the required Python libraries listed in the requirements.txt file.  
+(4) Open Jupyter Notebook.  
+(5) Navigate to the project folder.  
+(6) Run the notebooks in the following order:  
+ > 01_data_preparation.ipynb  
+ > 02_univariate_eda.ipynb  
+ > 03_risk_analysis.ipynb  
+ > 04_profitability_analysis.ipynb  
+ > 05_time_trend_analysis.ipynb
+
+
+# 👤 Author  
+
+Shubham Sharma  
+Aspiring Data Analyst | Python | Power BI  
+
+LinkedIn: <your-link>  
+
