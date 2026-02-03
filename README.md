@@ -34,6 +34,9 @@ Matplotlib, Seaborn
 (7) Time trend analysis  
 (8) Business conclusions & recommendations  
 
+<img width="1044" height="1009" alt="Project Workflow - visual selection" src="https://github.com/user-attachments/assets/c0f1fd59-b6a7-4924-98b7-53cb07a82f60" />  
+
+
 ## Data Preparation Highlights  
 
 Converted interest rate and loan term fields from text to numeric format for quantitative analysis.  
