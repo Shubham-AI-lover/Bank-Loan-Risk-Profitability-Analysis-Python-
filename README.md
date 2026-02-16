@@ -116,5 +116,5 @@ Bank-Loan-Risk-Analysis
 Shubham Sharma  
 Aspiring Data Analyst | Python | Power BI  
 
-LinkedIn: <your-link>  
+LinkedIn: https://www.linkedin.com/in/shubhamsharmaanalyst/  
 
